@@ -1,26 +1,35 @@
-### to-do-list-React
+# Lista de Tarefas - React
 
-### This project intends to present a task list web app
+Este projeto tem como objetivo apresentar um aplicativo web de lista de tarefas.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/devDudu-21/to-do-list-React?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/devDudu-21/to-do-list-React?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/devDudu-21/to-do-list-React?style=for-the-badge)
+## 🚀 Começando
 
-### Tweaks and improvements
+Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
-This project is for educational purposes and will not receive updates.
+### 📋 Pré-requisitos
 
-## 📫 Contributing to this repository
+O que você precisa para instalar o software e como instalá-lo:
 
-To contribute to repository, follow these steps:
+- Node.js
+- NPM
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and confirm them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name> / <local>`
-5. Create the pull request.
+### 🔧 Instalação
 
-Alternatively, see the GitHub documentation at
-[how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+1. Clone o repositório
+2. Instale as dependências com `npm install`
+3. Inicie o servidor com `npm start`
 
-[⬆ Back to the top](#to-do-list-react)
+## 🛠️ Construído com
+
+- React - A biblioteca JavaScript para construir interfaces de usuário
+- PropTypes - Verificação de tipo de prop em tempo de execução para componentes React
+- React Icons - Ícones populares em componentes React
+
+## 📦 Desenvolvimento
+
+O projeto foi desenvolvido com a arquitetura de componentes do React.
+
+## 📌 Versão
+
+Usamos Git para controle de versão. Para as versões disponíveis, consulte as tags neste repositório.
+
